@@ -2,7 +2,7 @@
 
 /* Special positions are for formatting the containers and shapes.*/
 
-.position-relative{
+#position-relative{
 	position: relative;
 	top: 60px;
 	left: 60px;
@@ -54,13 +54,13 @@
 }
 
 /*Shape styles*/
-#square{
+.square{
 	width: 100px;
 	height: 100px;
 	background:red;
 }
 
-#square-transparent div{
+.square-transparent div{
 	width: 100px;
 	height: 100px;
 	background-color: #ff000066;
@@ -70,13 +70,13 @@
 	justify-content: space-between;
 }
 
-#rectangle{
+.rectangle{
 	width: 200px;
 	height: 100px;
 	background: orange;
 }
 
-#rectangle-strip-1{
+.rectangle-strip-1{
 	width: 95%;
 	height: 45px;
 	background: #FFF0F5;
@@ -91,7 +91,7 @@
 	margin: 20px auto;
 }
 
-#rectangle-strip-3{
+.rectangle-strip-3{
 	width: 95%;
 	height: 15px;
 	background: #FFF0F5;
@@ -101,7 +101,7 @@
 }
 
 
-#circle-transparent{
+.circle-transparent{
 	width: 15px;
 	height: 15px;
 	background-color:rgba(112, 206, 122);
@@ -110,7 +110,7 @@
 }
 
 
-#pill {
+.pill {
 	width:10px;
 	height: 50px;
 	background-image: linear-gradient(90deg, #FFA07A, lemonchiffon);
@@ -121,7 +121,7 @@
 	mix-blend-mode: multiply;
 }
 
-#pill-2{
+.pill-2{
 	width:10px;
 	height: 50px;
 	background-image: linear-gradient(90deg, #85C1E9, #D5F5E3);
@@ -132,7 +132,7 @@
 	mix-blend-mode: multiply;
 }
 
-#triangle-up{
+.triangle-up{
 	width: 0;
 	height: 0;
 	border-left: 50px solid transparent;
@@ -143,7 +143,7 @@
 	margin: 10px;
 }
 
-#triangle-down{
+.triangle-down{
 	width: 0;
 	height: 0;
 	border-left: 50px solid transparent;
@@ -151,12 +151,12 @@
 	border-top: 100px solid purple;
 }
 
-/* these class color override the square color*/
-#square-transparent .blue{
+/* these colors override the square color*/
+#blue{
 	background-color: #0000FF66;
 }
 
-#square-transparent .yellow{
+#yellow{
 	background-color: #FFFF0066;
 }
 

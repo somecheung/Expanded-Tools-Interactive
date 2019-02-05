@@ -16,7 +16,7 @@
  	position: relative;
  }
  
-#circle-1{
+.circle-1{
 	width: 500px;
 	height: 500px;
 	border-width: 5px;
@@ -28,7 +28,7 @@
 	left: 30vw;
 }
 
-#circle-1A{
+.circle-1A{
 	width: 500px;
 	height: 500px;
 	border-width: 5px;
@@ -41,7 +41,7 @@
 	margin: 100vw 0vw;
 }
 
-#circle-1B{
+.circle-1B{
 	width: 500px;
 	height: 500px;
 	border-width: 5px;
@@ -54,7 +54,7 @@
 	margin: 200vw 0vw;
 }
 
-#circle-1C{
+.circle-1C{
 	width: 500px;
 	height: 500px;
 	border-width: 5px;
@@ -67,7 +67,7 @@
 	margin: 300vw 0vw;
 }
 
-#circle-2{
+.circle-2{
 	width: 450px;
 	height: 450px;
 	border-width: 5px;
@@ -79,7 +79,7 @@
 	left: 19px;
 }
 
-#circle-2B{
+.circle-2B{
 	width: 450px;
 	height: 450px;
 	border-width: 5px;
@@ -91,7 +91,7 @@
 	left: 19px;
 }
 
-#circle-2C{
+.circle-2C{
 	width: 450px;
 	height: 450px;
 	border-width: 5px;
@@ -103,7 +103,7 @@
 	left: 19px;
 }
 
-#circle-3{
+.circle-3{
 	width: 400px;
 	height: 400px;
 	border-width: 5px;
@@ -115,7 +115,7 @@
 	left: 19px;
 }
 
-#circle-3B{
+.circle-3B{
 	width: 400px;
 	height: 400px;
 	border-width: 5px;
@@ -127,7 +127,7 @@
 	left: 19px;
 }
 
-#circle-3C{
+.circle-3C{
 	width: 400px;
 	height: 400px;
 	border-width: 5px;
@@ -139,7 +139,7 @@
 	left: 19px;
 }
 
-#circle-4{
+.circle-4{
 	width: 350px;
 	height: 350px;
 	border-width: 5px;
@@ -151,7 +151,7 @@
 	left: 19px;
 }
 
-#circle-4B{
+.circle-4B{
 	width: 350px;
 	height: 350px;
 	border-width: 5px;
@@ -163,7 +163,7 @@
 	left: 19px;
 }
 
-#circle-4C{
+.circle-4C{
 	width: 350px;
 	height: 350px;
 	border-width: 5px;
@@ -175,7 +175,7 @@
 	left: 19px;
 }
 
-#circle-5{
+.circle-5{
 	width: 300px;
 	height: 300px;
 	border-width: 5px;
@@ -187,7 +187,7 @@
 	left: 19px;
 }
 
-#circle-5B{
+.circle-5B{
 	width: 300px;
 	height: 300px;
 	border-width: 5px;
@@ -199,7 +199,7 @@
 	left: 19px;
 }
 
-#circle-5C{
+.circle-5C{
 	width: 300px;
 	height: 300px;
 	border-width: 5px;
@@ -211,7 +211,7 @@
 	left: 19px;
 }
 
-#circle-6{
+.circle-6{
 	width: 250px;
 	height: 250px;
 	border-width: 5px;
@@ -223,7 +223,7 @@
 	left: 19px;
 }
 
-#circle-6B{
+.circle-6B{
 	width: 250px;
 	height: 250px;
 	border-width: 5px;
@@ -235,7 +235,7 @@
 	left: 19px;
 }
 
-#circle-6C{
+.circle-6C{
 	width: 250px;
 	height: 250px;
 	border-width: 5px;
@@ -247,7 +247,7 @@
 	left: 19px;
 }
 
-#circle-7{
+.circle-7{
 	width: 200px;
 	height: 200px;
 	border-width: 5px;
@@ -259,7 +259,7 @@
 	left: 19px;
 }
 
-#circle-7B{
+.circle-7B{
 	width: 200px;
 	height: 200px;
 	border-width: 5px;
@@ -271,7 +271,7 @@
 	left: 19px;
 }
 
-#circle-7C{
+.circle-7C{
 	width: 200px;
 	height: 200px;
 	border-width: 5px;
@@ -283,7 +283,7 @@
 	left: 19px;
 }
 
-#circle-8{
+.circle-8{
 	width: 150px;
 	height: 150px;
 	border-width: 5px;
@@ -295,7 +295,7 @@
 	left: 19px;
 }
 
-#circle-8B{
+.circle-8B{
 	width: 150px;
 	height: 150px;
 	border-width: 5px;
@@ -307,7 +307,7 @@
 	left: 19px;
 }
 
-#circle-8C{
+.circle-8C{
 	width: 150px;
 	height: 150px;
 	border-width: 5px;
@@ -319,7 +319,7 @@
 	left: 19px;
 }
 
-#circle-9{
+.circle-9{
 	width: 100px;
 	height: 100px;
 	border-width: 5px;
@@ -331,7 +331,7 @@
 	left: 19px;
 }
 
-#circle-9B{
+.circle-9B{
 	width: 100px;
 	height: 100px;
 	border-width: 5px;
@@ -343,7 +343,7 @@
 	left: 19px;
 }
 
-#circle-9C{
+.circle-9C{
 	width: 100px;
 	height: 100px;
 	border-width: 5px;
@@ -355,7 +355,7 @@
 	left: 19px;
 }
 
-#circle-10{
+.circle-10{
 	width: 50px;
 	height: 50px;
 	border-width: 5px;
@@ -367,7 +367,7 @@
 	left: 19px;
 }
 
-#circle-10B{
+.circle-10B{
 	width: 50px;
 	height: 50px;
 	border-width: 5px;
@@ -379,7 +379,7 @@
 	left: 19px;
 }
 
-#circle-10C{
+.circle-10C{
 	width: 50px;
 	height: 50px;
 	border-width: 5px;
